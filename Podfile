@@ -1,6 +1,6 @@
 # 设置支持最低平台
 platform :ios, '8.0'
-target 'ObjectDetection' do
+target 'BirdRecognition' do
 # 如果是Swift项目,需添加"use_frameworks!"
 use_frameworks!
 # 如果要使用固定版本 可以像下面这么写
