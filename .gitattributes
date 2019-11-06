@@ -1,0 +1,2 @@
+BirdRecognition/coreml_model_30c.mlmodel filter=lfs diff=lfs merge=lfs -text
+BirdRecognition/coreml_model_200c.mlmodel filter=lfs diff=lfs merge=lfs -text
